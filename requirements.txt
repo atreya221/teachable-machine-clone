@@ -1,0 +1,17 @@
+################################################################
+
+# For Windows users, run python setup.py (or python3 setup.py).
+# For linux users, run python3 setup.py.
+
+################################################################
+
+################################################################
+
+# Python package requirements for the project:
+
+tensorflow
+opencv-python
+matplotlib
+pyfastcopy
+
+################################################################
